@@ -1,16 +1,16 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Julian Diel&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julian+Diel;I'm+30+years+old;I+from+Porto+Alegre,+RS;I+study+Analyst+development+Systens+Faculdade+Anhanguera;and+Web-FullStack+Labenu;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julian+Diel;I'm+30+years+old;I+from+Porto+Alegre,+RS;I+study;Analysis+and+systems+development;Faculdade+Anhanguera+Educacional;Labenu+Bootcamp+Web+Fullstack;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  
  
  <div align="center">
   <a href="https://github.com/JulianDiel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianDiel&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianDiel&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianDiel&layout=compact&langs_count=16&theme=dark"/><br>
  
  
- <p align="center">
+ <br><p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JulianDiel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
@@ -51,4 +51,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JulianDiel}/count.svg" /></p> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/></div>
