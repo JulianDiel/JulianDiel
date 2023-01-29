@@ -32,7 +32,9 @@
 
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-KOTLIN-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;<br>
+![Android](https://img.shields.io/badge/-ANDROID-0D1117?style=for-the-badge&logo=android&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Ios](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 
 <div align="center"> 
