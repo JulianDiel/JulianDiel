@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Julian%20Diel&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julian+Diel;I'm+31+years+old;I+from+Porto+Alegre,+RS;Software+Engineering;Faculdade+Anhanguera+Educacional;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Julian+Diel;I'm+32+years+old;I+from+Porto+Alegre,+RS;Software+Engineering;Faculdade+Anhanguera+Educacional;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  
  
@@ -32,11 +32,11 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
   
-### Studying in this moment:
+<!--### Studying in this moment:
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;<br>
 ![Android](https://img.shields.io/badge/-ANDROID-0D1117?style=for-the-badge&logo=android&labelColor=0D1117&textColor=0D1117)&nbsp;
  ![Ios](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117&textColor=0D1117)&nbsp;
-</div>
+</div>-->
 
 <div align="center"> 
  <a href="https://instagram.com/_realdiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
